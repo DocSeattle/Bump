@@ -1,0 +1,12 @@
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\bin\Debug\net8.0\Bump.Register.deps.json
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\bin\Debug\net8.0\Bump.Register.dll
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\bin\Debug\net8.0\Bump.Register.pdb
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\Bump.Register.csproj.AssemblyReference.cache
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\Bump.Register.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\Bump.Register.AssemblyInfoInputs.cache
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\Bump.Register.AssemblyInfo.cs
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\Bump.Register.csproj.CoreCompileInputs.cache
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\Bump.Register.dll
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\refint\Bump.Register.dll
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\Bump.Register.pdb
+D:\Skolkaos\fördjupning programmering\Gruppgift GigTech\Bump.Register\obj\Debug\net8.0\ref\Bump.Register.dll
